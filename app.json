@@ -2,6 +2,15 @@
   "expo": {
     "name": "negocioShy",
     "slug": "negocioShy",
+    "android": {
+      "package": "com.comercioweb.comerciomovil",
+      "versionCode": 1,
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
     "platforms": [
       "ios",
       "android",
